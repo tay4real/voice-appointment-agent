@@ -36,9 +36,9 @@ npm start
 
 1. Launch the application.
 2. Use your microphone to speak commands such as:
-    - "Schedule a meeting with Dr. Smith next Monday at 10 AM."
-    - "Cancel my appointment on June 5th."
-    - "What appointments do I have tomorrow?"
+   - "Schedule a meeting with Dr. Smith next Monday at 10 AM."
+   - "Cancel my appointment on June 5th."
+   - "What appointments do I have tomorrow?"
 3. The app will confirm actions and update your calendar accordingly.
 
 ## Configuration
@@ -52,7 +52,3 @@ Contributions are welcome! Please open issues or submit pull requests for improv
 ## License
 
 This project is licensed under the MIT License.
-
-## Contact
-
-For support or inquiries, please contact [your.email@example.com](mailto:your.email@example.com).
